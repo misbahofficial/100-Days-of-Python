@@ -1,4 +1,4 @@
-# This program is to calculate GPA for Philosophy, Bangla, Sociology etc. department
+# This program is to calculate GPA for Philosophy, Bangla, Sociology etc. department of National University of Bangladesh
 
 course_01 = float(input("Course 01 point: "))
 course_02 = float(input("Course 02 point: "))
