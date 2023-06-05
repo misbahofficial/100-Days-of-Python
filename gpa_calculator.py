@@ -1,4 +1,12 @@
-# This program is to calculate GPA for only math department
+# This program is to calculate GPA for only math department of National University of Bangladesh
+'''
+To calculate your GPA:
+1. Run the program
+2. Enter your Grade Points of each couses
+3. Get your GPA calculated
+
+Note: If you can, you should change the source code as per your requirements
+'''
 
 course_01 = float(input("Course 01 point: "))
 course_02 = float(input("Course 02 point: "))
